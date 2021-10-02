@@ -2,7 +2,6 @@
 
 #include <SFML/Graphics.hpp>
 #include <iostream>
-#include <stack>
 #include <vector>
 #include <random>
 #include <string>
