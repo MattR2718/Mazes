@@ -2,7 +2,7 @@
 Maze generators and solver
 
 
-mazeGenerator shows maze generation
+mazeGenerator shows maze generation \
 <img src="https://github.com/MattR2718/Mazes/blob/main/mazeGenerator/MazeCreate.PNG" width="300" height="300">
 <img src="https://github.com/MattR2718/Mazes/blob/main/mazeGenerator/MazeCreate2.PNG" width="300" height="300">
 <img src="https://github.com/MattR2718/Mazes/blob/main/mazeGenerator/MazeCreate3.PNG" width="300" height="300">
